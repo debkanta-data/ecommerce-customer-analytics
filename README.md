@@ -1,9 +1,12 @@
-# E-commerce Customer Analytics
+# E-commerce Customer Analytics: Profitability & RFM Analysis
 
-##  Project Overview
-This project demonstrates an end-to-end customer analytics workflow using **SQL, Python, and Tableau** on a real-world e-commerce dataset.
+## Project Overview
+This project demonstrates an end-to-end customer analytics workflow using
+Python, SQL, and Tableau on a real-world e-commerce dataset.
 
-The goal is to analyze customer behavior, segment customers using RFM analysis, and generate business-ready insights through dashboards.
+The objective is to analyze customer behavior, apply RFM segmentation,
+and combine it with customer-level profitability to generate business-ready
+insights for decision-making.
 
 ---
 
@@ -18,24 +21,20 @@ Python → MySQL → Python → Tableau Public
 - Flexible customer segmentation applied in Python
 - Interactive Tableau dashboard for business insights
 
-
-
 ---
 
 ## Dashboard Preview
-[Live Dashboard](https://public.tableau.com/app/profile/debkanta.mishra/viz/Olist_Project_Dashboard/Dashboard1)
-
-Screenshots of the final Tableau dashboard are available in the
+Screenshots of the final Tableau dashboard are available in the  
 `tableau/dashboard_screenshots/` folder.
+
+🔗 [Live Dashboard](https://public.tableau.com/app/profile/debkanta.mishra/viz/Olist_Project_Dashboard/Dashboard1)
 
 ---
 
-
-##  Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, SQLAlchemy)
 - MySQL
 - Tableau Public
-
 
 ---
 
