@@ -25,7 +25,7 @@ Python → MySQL → Python → Tableau Public
 
 ## Dashboard Preview
 Screenshots of the final Tableau dashboard are available in the  
-`tableau/dashboard_screenshots/` folder.
+`tableau/screenshots` folder.
 
 🔗 [Live Dashboard](https://public.tableau.com/app/profile/debkanta.mishra/viz/Olist_Project_Dashboard/Dashboard1)
 
