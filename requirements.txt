@@ -1,7 +1,7 @@
-Python
-Pandas
-MySql
-Tableau 
+python
+pandas
+mysql
+tableau 
 sqlalchemy
 jupyter
   
