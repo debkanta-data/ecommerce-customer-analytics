@@ -17,6 +17,7 @@ insights for decision-making.
      ⬇️ *(SQLAlchemy Load)* `[MySQL Database (Fact Tables)]`  
      ⬇️ *(SQL Views for Profitability)* `[Python (RFM Logic Calculation)]`  
      ⬇️ *(Export)* `[Tableau Dashboard]`
+     
 ---
 
 ## Key Features
