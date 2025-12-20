@@ -1,0 +1,7 @@
+Python
+Pandas
+MySql
+Tableau 
+sqlalchemy
+jupyter
+  
