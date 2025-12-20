@@ -10,9 +10,13 @@ insights for decision-making.
 
 ---
 
-## End-to-End Workflow
-Python → MySQL → Python → Tableau Public
+##  System Architecture & Data Flow
 
+`[Raw CSVs]`  
+     ⬇️ *(Pandas ETL)* `[Cleaned Dataframes]`  
+     ⬇️ *(SQLAlchemy Load)* `[MySQL Database (Fact Tables)]`  
+     ⬇️ *(SQL Views for Profitability)* `[Python (RFM Logic Calculation)]`  
+     ⬇️ *(Export)* `[Tableau Dashboard]`
 ---
 
 ## Key Features
